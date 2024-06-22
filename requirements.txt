@@ -1,0 +1,3 @@
+pynacl
+base58
+rich
